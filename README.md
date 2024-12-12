@@ -10,6 +10,7 @@ Al finalizar el ciclo formativo tendré los siguientes conocimientos:
 - He realizado el prototipado de aplicaciones con Figma.
 - Tengo conocimientos básicos de contenedores con Docker.
 
-![alt text](https://cdn-icons-png.flaticon.com/512/5968/5968282.png "Logo de Java")       ![image](https://github.com/user-attachments/assets/5131c78c-b98a-4cd6-ab86-3cefe8fce6a4)
+![image](https://github.com/user-attachments/assets/a07c7c5c-c107-4ada-b96b-c3e632155927) ![image](https://github.com/user-attachments/assets/5131c78c-b98a-4cd6-ab86-3cefe8fce6a4) ![image](https://github.com/user-attachments/assets/9fc0ccd4-81cc-44a5-912e-37fbc154f0db)
+
 
 

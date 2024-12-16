@@ -49,13 +49,14 @@
 </div>
 
 <div align="center">
-  <h2><strong>En el caso de aplicaciones móviles, he trabajado con Flutter<br>para el desarrollo de aplicaciones multiplataforma.</strong></h2>
+  <h2><strong>En el caso de aplicaciones móviles, he trabajado con Flutter<br>para el desarrollo de aplicaciones multiplataforma.<br>Además he realizado el prototipado de aplicaciones con Figma.</strong></h2>
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/52bb2581-64ae-40bf-b578-515c106c9633" alt="Imagen 9" width="100" /></td>
+      <td><img src="https://github.com/user-attachments/assets/48cbd842-2810-4b5c-a937-e9b561a33075" alt="Imagen 10" width="100" /></td>
     </tr>
   </table>
 </div>
@@ -68,18 +69,6 @@
   <table>
     <tr>
       <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="Imagen 10" width="100" /></td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <h2><strong>He realizado el prototipado de aplicaciones con Figma.</strong></h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/48cbd842-2810-4b5c-a937-e9b561a33075" alt="Imagen 10" width="100" /></td>
     </tr>
   </table>
 </div>
